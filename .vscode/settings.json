@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3""workbench.colorTheme": "Predawn",
+    "window.zoomLevel": 1,
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.iconTheme": "ayu",
+    "editor.fontSize": 13,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+}
